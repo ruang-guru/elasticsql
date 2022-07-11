@@ -1,4 +1,4 @@
-module github.com/cch123/elasticsql
+module github.com/ruang-guru/elasticsql
 
 go 1.13
 
